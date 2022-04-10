@@ -8,18 +8,14 @@
 
 ## Laravel 8 Crud
 
-Laravel 8 Crud is a basic crud app built with laravel 8. In this app a basic product crud created.
-Features include:
+Laravel 8 Crud is a basic crud app built with laravel 8. This app includes a basic crud for a product and features includes:
 
 - Laravel ui package (```composer require laravel/ui```)
 - Laravel default auth (```php artisan ui bootstrap --auth```)
-- Create product.
+- Create a product.
 - List products.
 - Update product.
 - Delete product
-- Migration file.
-- Request file used to validate request data
-- Pagination support
 
 This app created to help developers to get started with their crud based apps.
 
