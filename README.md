@@ -1,5 +1,3 @@
-<p align="center"><a href="https://nazmulrobin.com" target="_blank"><img src="http://laravel.nazmulrobin.com/images/jagatrp/nhrblog-logo-white.png" width="400"></a></p>
-
 <p align="center">
 <a href="https://github.com/nhrrob/laravel-8-crud/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/jagatrp/laravel-8-crud"></a>
 <a href="https://github.com/nhrrob/laravel-8-crud/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/jagatrp/laravel-8-crud"></a>
